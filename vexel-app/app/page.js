@@ -20,6 +20,8 @@ export default function Home() {
             </code>
             .
           </li>
+          <h1> Welcome to vexel dude</h1> 
+          <p>This is the first change and begginign to something new</p>
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
